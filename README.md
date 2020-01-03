@@ -7,7 +7,7 @@ java bean基于注解的校验框架，由于要使用openstack java sdk，而op
 
 ### 使用说明
 
-####1. 添加注解
+#### 1. 添加注解
 
 ````java
 @Data
@@ -18,7 +18,7 @@ public class Project {
 }
 ````
 
-####2.调用校验
+#### 2.调用校验
 
 ````java
 class test{

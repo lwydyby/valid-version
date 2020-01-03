@@ -10,7 +10,6 @@ public @interface Condition {
     /**
      * 校验条件实现类
      * @return 对应的 class 实现
-     * @since 0.1.3
      */
     Class<? extends AbstractAnnotationCondition> value();
 }

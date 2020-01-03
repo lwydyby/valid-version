@@ -100,7 +100,6 @@ public class DefaultValidator implements IValidator {
      *
      * @param annotation 注解
      * @return message() 方法对应的值。
-     * @since 0.0.9
      */
     protected String getMessage(final Annotation annotation) {
         return ReflectAnnotationUtil.getValueStr(annotation, AnnotationConst.MESSAGE);
@@ -111,7 +110,6 @@ public class DefaultValidator implements IValidator {
      *
      * @param annotation 注解
      * @return message() 方法对应的值。
-     * @since 0.0.9
      */
     private Class[] getGroup(final Annotation annotation) {
         Object object = ReflectAnnotationUtil.getValue(annotation, AnnotationConst.GROUP);

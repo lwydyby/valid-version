@@ -92,7 +92,6 @@ public class ClassTypeUtil {
      *
      * @param clazz 类
      * @return 是否为抽象类
-     * @since 0.0.2
      */
     public static boolean isAbstract(Class<?> clazz) {
         return Modifier.isAbstract(clazz.getModifiers());
@@ -193,7 +192,6 @@ public class ClassTypeUtil {
      * 是否为列表
      * @param clazz 类型
      * @return 结果
-     * @since 0.1.14
      */
     public static boolean isList(final Class clazz) {
         return List.class.isAssignableFrom(clazz);

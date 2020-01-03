@@ -1,9 +1,9 @@
 package cn.lwydyby.valid.utils;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: ObjectUtil
- * @projectName sdkproxy
+ * @projectName valid
  * @description: TODO
  * @date 2020-01-02 17:58
  */

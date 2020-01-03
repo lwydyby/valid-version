@@ -4,9 +4,9 @@ import cn.lwydyby.valid.result.IConstraintResult;
 import lombok.Builder;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: DefaultConstraintResult
- * @projectName sdkproxy
+ * @projectName valid
  * @description: TODO
  * @date 2020-01-02 17:39
  */

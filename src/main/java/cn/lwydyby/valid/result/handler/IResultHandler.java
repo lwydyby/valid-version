@@ -7,9 +7,9 @@ import cn.lwydyby.valid.result.handler.Impl.BaseResultHandler;
 import java.util.List;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: IResultHandler
- * @projectName sdkproxy
+ * @projectName valid
  * @description: 结果处理
  * @date 2020-01-03 09:03
  */

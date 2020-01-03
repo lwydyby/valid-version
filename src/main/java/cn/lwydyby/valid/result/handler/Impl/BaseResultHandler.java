@@ -10,9 +10,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: BaseResultHandler
- * @projectName sdkproxy
+ * @projectName valid
  * @description: TODO
  * @date 2020-01-03 09:04
  */

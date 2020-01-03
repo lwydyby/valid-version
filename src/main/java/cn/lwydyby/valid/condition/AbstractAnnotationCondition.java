@@ -5,9 +5,9 @@ import cn.lwydyby.valid.context.IConditionContext;
 import java.lang.annotation.Annotation;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: AbstractAnnotationCondition
- * @projectName sdkproxy
+ * @projectName valid
  * @description: TODO
  * @date 2020-01-02 17:32
  */

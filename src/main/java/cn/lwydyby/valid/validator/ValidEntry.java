@@ -7,9 +7,9 @@ import lombok.Data;
 import java.lang.reflect.Field;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: ValidEntry
- * @projectName sdkproxy
+ * @projectName valid
  * @description: TODO
  * @date 2020-01-02 17:49
  */

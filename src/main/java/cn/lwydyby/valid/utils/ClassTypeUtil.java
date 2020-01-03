@@ -10,9 +10,9 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: ClassTypeUtil
- * @projectName sdkproxy
+ * @projectName valid
  * @description: TODO
  * @date 2020-01-02 17:52
  */

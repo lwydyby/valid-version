@@ -1,7 +1,7 @@
 package cn.lwydyby.valid.utils;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: StringUtils
  * @projectName valid
  * @description: TODO

@@ -1,9 +1,9 @@
 package cn.lwydyby.valid.exception;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: ValidRuntimeException
- * @projectName sdkproxy
+ * @projectName valid
  * @description: TODO
  * @date 2020-01-03 09:08
  */

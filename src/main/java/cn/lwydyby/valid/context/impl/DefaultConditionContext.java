@@ -6,9 +6,9 @@ import lombok.Builder;
 import java.lang.reflect.Field;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: DefaultConditionContext
- * @projectName sdkproxy
+ * @projectName valid
  * @description: TODO
  * @date 2020-01-02 17:27
  */

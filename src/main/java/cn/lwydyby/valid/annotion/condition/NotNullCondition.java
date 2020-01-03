@@ -11,9 +11,9 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author liwei
+ * @author lwydyby
  * @title: NotNullCondition
- * @projectName sdkproxy
+ * @projectName valid
  * @description: TODO
  * @date 2020-01-03 09:19
  */

@@ -23,7 +23,7 @@ public class Project {
 ````java
 class test{
     public static void main(String[] args){
-      IResult result=ValidFactory.on(value,version,new Class[0]).valid().result();
+      IResult result=ValidFactory.on(value,version,group).valid().result();
       //控制台打印结果
       result.print();
       if(!result.pass()){
